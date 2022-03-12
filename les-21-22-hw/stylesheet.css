@@ -1,0 +1,34 @@
+.gamma{ background-color: #f0d4f7;}
+img{ width:80%; margin-bottom: 5%;}
+h1{ text-align: center;
+   background-color: #e61d5e;
+   color: #e3e1e2;
+   padding-bottom: 5%;
+   margin-bottom: 5%;
+   border-radius: 50%;}
+h2{ text-align: center;
+   background-color: #e61d5e;
+   color: #e3e1e2;
+   border-radius: 50%;}
+h3{ text-align: center;}
+h4{ text-align: center;}
+body{ background-color: #d4f5f7;}
+.alfa{ background-color: #f9e2bb;}
+.beta{ background-color: #fbd7fd;}
+textarea{ min-width: 100%; padding-bottom: 10%;}
+input{ margin-bottom: 5%;}
+.btn{ margin-bottom: 5%;
+       background-color: #a00e57;
+       color: #aefde9;
+       border-radius: 10%;}
+div, a{ text-align: center;}
+a{ background-color: #aefde9;
+   padding: 5%;
+    border-radius: 10%;
+    text-decoration: none;
+    color: #a00e57;}
+header{ padding-bottom: 5%; background-color: #9e8bc3;}
+footer{ background-color: #9e8bc3;
+        padding-top: 10%;
+        min-height: 200px;}
+span{ color: #5d5a61;}
